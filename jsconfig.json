@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "target": "esnext", // Updated to "esnext" for modern JavaScript features
+    "module": "esnext",
+    "baseUrl": "./",
+    "moduleResolution": "node", // Changed to "node" for better compatibility with Vue CLI
+    "paths": {
+      "@/*": [
+        "src/*"
+      ]
+    },
+    "lib": [
+      "esnext",
+      "dom",
+      "dom.iterable",
+      "scripthost"
+    ],
+    "jsx": "preserve" // Added for JSX/TSX support if needed
+  },
+  "exclude": [
+    "node_modules", // Exclude node_modules to avoid unnecessary processing
+    "dist"          // Exclude build output directory
+  ]
+}
