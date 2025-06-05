@@ -14,7 +14,7 @@
             </v-list-item-avatar>
           </v-list-item>
           <v-list class="id-name">
-            <v-list-item-title class="name">JUNWARD MEGULLAS</v-list-item-title>
+            <v-list-item-title class="name">JUAN DELA CRUZ</v-list-item-title>
             <p class="id">200-00001 | BSCS - 4</p>
           </v-list>
         </v-list>
