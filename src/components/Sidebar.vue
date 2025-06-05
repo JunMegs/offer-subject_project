@@ -70,7 +70,7 @@
           {
             title: 'Dashboard',
             icon: 'mdi-view-dashboard',
-            submenu: ['SABA', 'HILOM'],
+            submenu: [],
           },
           { title: 'Academic Record', icon: 'mdi-school', submenu: [] },
           {
