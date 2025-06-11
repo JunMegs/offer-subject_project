@@ -1,6 +1,6 @@
 import { createApp } from 'vue';
 import App from './App.vue';
-import vuetify from './plugins/vuetify'; // ✅ Already configured Vuetify
+import vuetify from './plugins/vuetify';
 import router from './router/index';
 
 import 'vuetify/styles';
